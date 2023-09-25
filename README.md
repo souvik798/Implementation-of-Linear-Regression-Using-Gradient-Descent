@@ -98,7 +98,31 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+# profit prediction graph:
+![1](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/25c4b296-e1eb-4332-8475-f7d5b7d82621)
+
+# compute cost value
+![2](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/e68e4d39-9551-44d1-843b-f960bf7efcf7)
+
+# h(x) value
+![3](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/4ad2d8da-8e9a-4a99-aab4-f7069dee31f2)
+
+# Cost function using Gradient descent graph:
+![4](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/3365e19b-9bc3-42b1-98f8-0d08d15e209e)
+
+# Profit prediction graph:
+![5](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/92e21d81-f3b1-465c-a967-a2f9c70f145c)
+
+# profit of population 35,000:
+![6](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/075f3222-e2b6-4c57-93bc-f7e707a37633)
+
+# profit of population 70,000:
+![7](https://github.com/souvik798/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/94752764/099c3ad3-a48b-4192-9a30-ef7c5568d2fa)
+
+
+
+
+
 
 
 ## Result:
